@@ -30,3 +30,5 @@
 </div>
 
 ## 📸 Screenshot do Aplicativo
+
+![image](https://github.com/user-attachments/assets/b51a42eb-db32-4b7c-a02d-7ff3c590d909)
